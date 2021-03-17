@@ -1,2 +1,2 @@
 # TitterBot
-Credit goes to some other people who I can't remember because I kinda just frankensteined this.
+Credit goes to some other people that I can't remember because I kinda just frankensteined this.
